@@ -14,3 +14,4 @@
 .cxx
 local.properties
 CLAUDE.local.md
+.claude/settings.local.json
